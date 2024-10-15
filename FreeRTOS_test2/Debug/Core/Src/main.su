@@ -1,0 +1,13 @@
+../Core/Src/main.c:62:6:senddflt	16	static
+../Core/Src/main.c:66:6:send2	16	static
+../Core/Src/main.c:70:6:send3	16	static
+../Core/Src/main.c:85:5:main	128	static
+../Core/Src/main.c:169:6:SystemClock_Config	88	static
+../Core/Src/main.c:224:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:257:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:293:6:StartDefaultTask	16	static
+../Core/Src/main.c:312:6:task2_init	16	static
+../Core/Src/main.c:323:6:task3_init	16	static
+../Core/Src/main.c:330:6:task4_init	16	static
+../Core/Src/main.c:344:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:361:6:Error_Handler	4	static,ignoring_inline_asm
